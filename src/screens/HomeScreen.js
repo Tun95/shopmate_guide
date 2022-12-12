@@ -28,7 +28,7 @@ function HomeScreen() {
           <li className="api-order">
             JWT{" "}
             <ul className="api-unorder">
-              <li>JWT_SECRET=(Your website name)</li>
+              <li>JWT_SECRET=(Contact me for your secret key)</li>
             </ul>
           </li>
           <li className="api-order">
