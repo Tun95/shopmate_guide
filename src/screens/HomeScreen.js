@@ -8,7 +8,19 @@ function HomeScreen() {
         I only post and sell source code on codecanyon.com market place only,
         any claim by anyone or any yee yee ass website on my source code has
         his/her own is a lie and a FRUAD, I did not give permission to anyone to
-        ressell my code, SO BEWARE!!!
+        resell my code, SO BEWARE!!! <br />
+        <br />
+        <br />
+        Please Contact Immediately Your Purchase is Complete so as to Configure
+        your app frontend. <br />
+        <br />
+        <h3>Contact: </h3>
+        <label htmlFor="">Email: </label>
+        <span>shopmate400@gmail.com</span>
+        <br />
+        <label htmlFor="">Whatsapp: </label>
+        <span>+2349160921639</span>
+        <br />
       </p>
       <h2>Backend API'S</h2>
       <div className="api-list">
