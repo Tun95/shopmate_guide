@@ -3,8 +3,13 @@ import React from "react";
 function HomeScreen() {
   return (
     <div>
-      <h2 className="color_red">IMPORTANT NOTICE</h2>
-      <p className="color_red"></p>
+      <h1 className="color_red">IMPORTANT NOTICE</h1>
+      <p className="color_red margin-bottom">
+        I only post and sell source code on codecanyon.com market place only,
+        any claim by anyone or any yee yee ass website on my source code has
+        his/her own is a lie and a FRUAD, I did not give permission to anyone to
+        ressell my code, SO BEWARE!!!
+      </p>
       <h2>Backend API'S</h2>
       <div className="api-list">
         <p>
