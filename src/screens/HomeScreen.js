@@ -3,6 +3,8 @@ import React from "react";
 function HomeScreen() {
   return (
     <div>
+      <h2 className="color_red">IMPORTANT NOTICE</h2>
+      <p className="color_red"></p>
       <h2>Backend API'S</h2>
       <div className="api-list">
         <p>
